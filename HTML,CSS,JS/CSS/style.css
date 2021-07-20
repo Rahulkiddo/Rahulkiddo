@@ -1,0 +1,122 @@
+header, footer{
+    background-color: lightgrey;
+    border: solid 1px;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#mySection label{
+    font-weight: bold;
+}
+
+footer{
+    padding: 5px;
+}
+
+#mySection input[type = text],
+#mySection input[type = date],
+#mySection select{
+    width: 250px;
+}
+
+.add-img-border{
+    /* border-style: dotted; */
+    border: solid 1px;
+    width: 100px;
+    display: inline-block;
+    margin: 3px;
+    padding: 3px;
+}
+
+header nav{
+    float: right;
+    margin: 3px;
+}
+
+header nav li{
+    display: inline;
+}
+
+.welcomeMsg{
+    display: inline-block;
+    
+}
+
+#mySection{
+    border: solid 1px;
+    background-color: wheat;
+}
+
+.form{
+    border-style: dotted;
+    background-color: darkgrey;
+    padding: 5px;
+    margin: 2px;
+    width: 600px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: burlywood;
+}
+
+#mySection input[type=submit]{
+    border-radius: 20px;
+    background-color: darkseagreen;
+    color: white;
+    padding: 3px;
+}
+
+#mySection input[type=reset]{
+    border-radius: 20px;
+    background-color: darkgreen;
+    color: white;
+    padding: 3px;
+}
+
+.main{
+    border: solid 1px;
+    padding: 3px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+/* section{
+    background-color: khaki;
+}
+
+#anotherSection{
+    background-color: aqua;
+}
+
+a{
+    color: cadetblue;
+}
+
+a:hover{
+    color: red;
+}
+
+#home{
+    color: chocolate;
+}
+
+header nav{
+    float: right;
+    /*font-size: 12px;
+}
+
+header nav li{
+    display: inline;
+}
+
+#welcomeMsg{
+    text-align: center;
+} 
+.textColor{
+    color: red;
+}
+*/
+
+
